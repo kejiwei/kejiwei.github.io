@@ -3,11 +3,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sebastien Martin
-email: 92sebastien@gmail.com
-description: Personal Website of Sebastien Martin, PhD Student at MIT
+title: Keji Wei
+email: kejiwei3@gmail.com
+description: Personal Website of Keji Wei, Operations Research Developer at Sabre
 
-currentresume: resumes/S.MARTIN_201901_resume_academic.pdf # DO NOT FORGET TO CHANGE THE TAB LINK AS WELL
+currentresume: resumes/Keji_Wei__CV.pdf # DO NOT FORGET TO CHANGE THE TAB LINK AS WELL
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,5 +33,5 @@ tablinks:
   - index.html
   - research.html
   - media.html
-  - assets/resumes/S.MARTIN_201901_resume_academic.pdf
+  - assets/resumes/Keji_Wei__CV.pdf
 
