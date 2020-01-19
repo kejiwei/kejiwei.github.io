@@ -7,7 +7,7 @@ title: Keji Wei
 email: kejiwei3@gmail.com
 description: Personal Website of Keji Wei, Operations Research Developer at Sabre
 
-currentresume: resumes/Keji_Wei__CV.pdf # DO NOT FORGET TO CHANGE THE TAB LINK AS WELL
+currentresume: assets/resumes/Keji_Wei__CV.pdf # DO NOT FORGET TO CHANGE THE TAB LINK AS WELL
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
