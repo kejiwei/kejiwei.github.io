@@ -28,10 +28,12 @@ tabnames:
   - Research
   - Media
   - CV
+  - Miscellaneous
 
 tablinks:
   - index.html
   - research.html
   - media.html
   - assets/resumes/Keji_Wei__CV.pdf
+  - Miscellaneous
 
