@@ -20,9 +20,9 @@ title: *name # website title, also used in other places
 title_separator: "|" # Separator for subpages
 subtitle: "Personal academic website" #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
-  Personal academic website of Keji Wei, professor at the Kellogg School of Management, Northwestern University.
+  Personal academic website of Keji Wei, professor at School of Economics and Management </a>, Tongji University University.
 url: "https://github.com/kejiwei"
-repository: "sebmart/sebmart.github.io"
+repository: "https://github.com/kejiwei"
 logo: "/assets/images/SEM_Tongji.jpg"
 
 email: kejiwei@tongji.edu.cn
@@ -53,23 +53,23 @@ author:
   name   : *name
   avatar : "/assets/images/sebastienmartin.jpg"
   bio    : "Assistant Professor of Operations at Kellogg, specialized in analytics, transportation and policy"
-  location : "Chicago, IL, USA"
-  email : "sebastien.martin@kellogg.northwestern.edu"
+  location : "Shanghai, China"
+  email : "kejiwei@tongji.edu.cn"
   linkedin : "sebmart"
   github : "sebmart"
   links:
-    - label: "Northwestern University"
+    - label: "Tongji University"
       icon : "fas fa-university"
-      url : "https://www.northwestern.edu/"
+      url : "https://en.tongji.edu.cn/p/#/"
     - label: "Operations@Kellogg"
       icon : "fas fa-user-friends"
       url : "https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx"
-    - label: "Kellogg faculty profile"
+    - label: "Tongji faculty profile"
       icon : "fas fa-user-tie"
       url : "https://www.kellogg.northwestern.edu/faculty/directory/martin_sebastien.aspx"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=9ULbBLEAAAAJ&hl=en"
 
 include:
   - _pages
