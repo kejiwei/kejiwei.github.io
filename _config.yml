@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: &name "Sébastien Martin" # my name, also used as default author
+name: &name "Keji Wei" # my name, also used as default author
 remote_theme: mmistakes/minimal-mistakes@4.22.0
 minimal_mistakes_skin: default # or use "default"
 title: *name # website title, also used in other places
 title_separator: "|" # Separator for subpages
 subtitle: "Personal academic website" #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
-  Personal academic website of Sébastien Martin, professor at the Kellogg School of Management, Northwestern University.
-url: "https://sebastienmartin.info"
+  Personal academic website of Keji Wei, professor at the Kellogg School of Management, Northwestern University.
+url: "https://github.com/kejiwei"
 repository: "sebmart/sebmart.github.io"
-logo: "/assets/images/kellogg_k.png"
+logo: "/assets/images/SEM_Tongji.jpg"
 
-email: sebastien.martin@kellogg.northwestern.edu
+email: kejiwei@tongji.edu.cn
 # twitter_username: username
 github_username: sebmart
 search: false
