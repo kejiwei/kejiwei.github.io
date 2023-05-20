@@ -51,7 +51,7 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/keji.jpg"
+  avatar : "/assets/images/Keji.png"
   bio    : "Assistant Professor of Operations at SEM, specialized in data analytics, optimization and transportation"
   location : "Shanghai, China"
   email : "kejiwei@tongji.edu.cn"
