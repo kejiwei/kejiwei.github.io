@@ -27,7 +27,7 @@ logo: "/assets/images/SEM_Tongji.jpg"
 
 email: kejiwei@tongji.edu.cn
 # twitter_username: username
-github_username: sebmart
+github_username: kejiwei
 search: false
 locale: en-US
 
@@ -51,19 +51,19 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/sebastienmartin.jpg"
-  bio    : "Assistant Professor of Operations at Kellogg, specialized in analytics, transportation and policy"
+  avatar : "/assets/images/keji.jpg"
+  bio    : "Assistant Professor of Operations at SEM, specialized in data analytics, optimization and transportation"
   location : "Shanghai, China"
   email : "kejiwei@tongji.edu.cn"
-  linkedin : "sebmart"
-  github : "sebmart"
+  linkedin : "kejiwei"
+  github : "kejiwei"
   links:
     - label: "Tongji University"
       icon : "fas fa-university"
       url : "https://en.tongji.edu.cn/p/#/"
-    - label: "Operations@Kellogg"
+    - label: "Operations@SEM"
       icon : "fas fa-user-friends"
-      url : "https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx"
+      url : "https://sem.tongji.edu.cn/semen/departments/management-science-and-engineering"
     - label: "Tongji faculty profile"
       icon : "fas fa-user-tie"
       url : "https://www.kellogg.northwestern.edu/faculty/directory/martin_sebastien.aspx"
