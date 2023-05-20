@@ -1,39 +1,136 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Keji Wei
-email: kejiwei3@gmail.com
-description: Personal Website of Keji Wei, Operations Research Developer at Sabre
+name: &name "Sébastien Martin" # my name, also used as default author
+remote_theme: mmistakes/minimal-mistakes@4.22.0
+minimal_mistakes_skin: default # or use "default"
+title: *name # website title, also used in other places
+title_separator: "|" # Separator for subpages
+subtitle: "Personal academic website" #appears in the masthead of the website
+description: >- # this means to ignore newlines until "next attribute:"
+  Personal academic website of Sébastien Martin, professor at the Kellogg School of Management, Northwestern University.
+url: "https://sebastienmartin.info"
+repository: "sebmart/sebmart.github.io"
+logo: "/assets/images/kellogg_k.png"
 
-currentresume: assets/resumes/Keji_Wei__CV.pdf # DO NOT FORGET TO CHANGE THE TAB LINK AS WELL
+email: sebastien.martin@kellogg.northwestern.edu
+# twitter_username: username
+github_username: sebmart
+search: false
+locale: en-US
 
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-105220526-1"
+    anonymize_ip: false # default
 
 # Build settings
 markdown: kramdown
-# theme: minima
-gems:
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+atom_feed:
+  hide: true
+
+# The author sidebar
+author:
+  name   : *name
+  avatar : "/assets/images/sebastienmartin.jpg"
+  bio    : "Assistant Professor of Operations at Kellogg, specialized in analytics, transportation and policy"
+  location : "Chicago, IL, USA"
+  email : "sebastien.martin@kellogg.northwestern.edu"
+  linkedin : "sebmart"
+  github : "sebmart"
+  links:
+    - label: "Northwestern University"
+      icon : "fas fa-university"
+      url : "https://www.northwestern.edu/"
+    - label: "Operations@Kellogg"
+      icon : "fas fa-user-friends"
+      url : "https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx"
+    - label: "Kellogg faculty profile"
+      icon : "fas fa-user-tie"
+      url : "https://www.kellogg.northwestern.edu/faculty/directory/martin_sebastien.aspx"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en"
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - jemoji
+  - jekyll-include-cache
 
-tabnames:
-  - About Me
-  - Research
-  - Media
-  - CV
-  - Miscellaneous
 
-tablinks:
-  - index.html
-  - research.html
-  - media.html
-  - assets/resumes/Keji_Wei__CV.pdf
-  - Miscellaneous
+footer:
+  # links:
+  #   - label: "Google"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/"
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

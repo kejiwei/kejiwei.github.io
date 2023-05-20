@@ -1,5 +1,3 @@
-# kejiwei.github.io
+# My personal website
 
-My personal website.
-
-Built using Jekyll, Bootstrap.
+This website is based on the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes), slightly edited to serve the purposes of an academic website.
