@@ -1,12 +1,12 @@
 ---
-title: "Miscellaneous"
+title: ""
 permalink: /students/
 author_profile: true
 ---
 
-I have the pleasure to collaborate with fantastic academics and students!
 
 ## Current Collaborators
+- I have the pleasure to collaborate with fantastic academics and students!
 
 ## Selected  Awards
 - **Transportation Science Meritorious Service Award**, Informs, Oct 2022
