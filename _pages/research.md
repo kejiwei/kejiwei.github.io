@@ -26,7 +26,6 @@ My research lies at the intersection of optimization, data analytics, and transp
     - <i class="fas fa-award" aria-hidden="true"></i> Finallist of the 2017 Anna Valicek Award (2019)<i class="fas fa-newspaper" aria-hidden="true"></i> [Sciencedaily](https://www.sciencedaily.com/releases/2018/06/180606132740.htm)
 
 - [Energy-efficient rail guided vehicle routing for two-sided loading/unloading automated freight handling system]("https://www.sciencedirect.com/science/article/pii/S0377221716307159) with  W.Hu,J.Mao and K.Wei. **European Journal of Operational Research** 
-
 {: .small}
 
 ## Working Papers
