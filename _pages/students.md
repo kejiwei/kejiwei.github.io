@@ -1,16 +1,16 @@
 ---
-title: ""
+title: "Students and Collaborators"
 permalink: /students/
 author_profile: true
 ---
 
-- I have the pleasure to collaborate with fantastic academics and students!
+I have the pleasure to collaborate with fantastic academics and students!
 ## Current Collaborators
 
 
 ### Researchers
 - **[Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze)** (my PhD advisor at DARTMOUTH)
-- **[https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat)** (my PhD advisor at MIT)
+- **[Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat)** (my PhD advisor at MIT)
 
 ## Selected  Awards
 - **Transportation Science Meritorious Service Award**, Informs, Oct 2022
