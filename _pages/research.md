@@ -13,7 +13,7 @@ My research lies at the intersection of optimization, data analytics, and transp
 - [A Machine Learning Approach for Solution Space Reduction in Aircraft Disruption Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with N. Rashedi, N. Sankey,V. Vaze **Submitted to Transportation Science**
 {: .small}
 
-## Published Work
+## Selected Published Work
 - [Transit planning optimization under ride-hailing competition and traffic congestion](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1068) with  V. Vaze, and A. Jacquillat. **Transportation Science (2021)** 
 - [Schedule Planning and Endogeneity of Travelers' Decisions in Congested Large-Scale Transportation Networks](/assets/papers/Keji_PhD_Dissertation.pdf) **Dartmouth PhD Thesis (2019)**
    - <i class="fas fa-award" aria-hidden="true"></i> INFORMS AAS Dissertation Prize (2020)
