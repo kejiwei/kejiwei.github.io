@@ -10,7 +10,7 @@ My research lies at the intersection of optimization, data analytics, and transp
 
 ## Under Review
 - Graph Attention Networks for Efficient Construction of Arc-Based Transportation Network Models with V. Vaze  **Submitted to Transportation Science**
-- [A Machine Learning Approach for Solution Space Reduction in Aircraft Disruption Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with N. Rashedi, N. Sankey,V. Vaze **Submitted to Transportation Science**
+- [A Machine Learning Approach for Solution Space Reduction in Aircraft Disruption Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with N. Rashedi, N. Sankey,V. Vaze **SSRN's Top Ten download list  Electrical Engineering, Civil Engineering Under Revision by European Journal of Operational Research**
 {: .small}
 
 ## Selected Published Work
