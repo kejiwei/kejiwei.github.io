@@ -13,7 +13,6 @@ I have the pleasure to collaborate with fantastic academics and students!
 - **[Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat)** (my PhD advisor at MIT)
 
 ### Students
-- **[Audrey Bazerghi](https://kelloggphds.northwestern.edu/audrey-bazerghi/)** (Northwestern Kellogg, 4th year Ph.D. co-advised with Jan Van Mieghem)
 - **Binbin Chen** (Tongji University, 5th year Ph.D. student, co-advised with Zhe Liang)
 - **Xiaoyun Niu** (Tongji University, 2nd year Ph.D. student)
 
