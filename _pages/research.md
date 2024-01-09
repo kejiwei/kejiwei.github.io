@@ -9,7 +9,7 @@ My research lies at the intersection of optimization, data analytics, and transp
 <a href="https://scholar.google.com/citations?user=9ULbBLEAAAAJ&hl=en" class="btn btn--primary"><i class="fas a-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
 
 ## Under Review
-- [Graph Attention Networks for Efficient Construction of Arc-Based Transportation Network Models] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4685714) with V. Vaze 
+- [Graph Attention Networks for Efficient Construction of Arc-Based Transportation Network Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4685714) with V. Vaze 
 - [A Machine Learning Approach for Solution Space Reduction in Aircraft Disruption Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with N. Rashedi, N. Sankey,V. Vaze **Under Revision by European Journal of Operational Research**
 {: .small}
 
