@@ -23,6 +23,10 @@ Venue: B101 (Jiading)
 {: .small}
 
 ## Policies
-{: .small}
+{- **[Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu/publications)** (UToronto)
+- **[Jingwei Zhang](https://www.jingwei-zhang.com/)** (Cornell)
+- **[Ritesh Ojha](https://rojha8.github.io/)** (Georgia Tech)
+- **[Richard Ratliff]** (Sabre)
+- **[Zhe Liang]** (Tongji University)}
 
 
