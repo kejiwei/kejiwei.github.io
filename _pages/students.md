@@ -13,8 +13,8 @@ I have the pleasure to collaborate with fantastic academics and students!
 - **[Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat)** (my PhD advisor at MIT)
 
 ### Students
-- **Binbin Chen** (Tongji University, 5th year Ph.D. student, co-advised with Zhe Liang)
-- **Xiaoyun Niu** (Tongji University, 2nd year Ph.D. student)
+- **Binbin Chen** (Tongji University, June 2023-, co-advised with Zhe Liang)
+- **Xiaoyun Niu** (Tongji University, Oct 2023-)
 
 ### Faculty
 - **[Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu/publications)** (UToronto)

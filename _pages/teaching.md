@@ -22,11 +22,9 @@ Venue: B101 (Jiading)
 ## Tentative Weekly Schedule
 {: .small}
 
-## Policies
-{- **[Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu/publications)** (UToronto)
-- **[Jingwei Zhang](https://www.jingwei-zhang.com/)** (Cornell)
-- **[Ritesh Ojha](https://rojha8.github.io/)** (Georgia Tech)
-- **[Richard Ratliff]** (Sabre)
-- **[Zhe Liang]** (Tongji University)}
-
-
+## Grading
+- Discussion Attendance: 5%
+- Homework/Quiz: 35% (lowest one score dropped)
+- Project:25%
+- Final: 35%
+{: .small}
