@@ -20,6 +20,7 @@ I have the pleasure to collaborate with fantastic academics and students!
 - **[Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu/publications)** (UToronto)
 - **[Jingwei Zhang](https://www.jingwei-zhang.com/)** (Cornell)
 - **[Ritesh Ojha](https://rojha8.github.io/)** (Georgia Tech)
+- **[Yufeng Cao](https://www.acem.sjtu.edu.cn/en/faculty/caoyufeng.html)** (SJTU)
 - **[Richard Ratliff]** (Sabre)
 - **[Zhe Liang]** (Tongji University)
 

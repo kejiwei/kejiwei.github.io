@@ -12,7 +12,7 @@ Discrete Mathematics is what one needs to talk about most problems in computer s
 
 
 ## Background Assumed:
-Students should have basic knowledge about programming (CS1) and should have some familiarity with basic math.
+Students should have basic knowledge about programming  and should have some familiarity with basic math.
 
 ## Class Information:
 Class Times: T: 8:00am - 9:35am, F:10:00 - 11:35   Office Hours: (F: 3:00pm - 4:00pm)
