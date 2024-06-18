@@ -25,11 +25,11 @@ My research lies at the intersection of optimization, data analytics, and transp
 - [Modeling Crew Itineraries and Delays in the National Air Transportation System](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2018.0834) with  V. Vaze. **Transportation Science (2018)** 
     - <i class="fas fa-award" aria-hidden="true"></i> Finallist of the 2017 Anna Valicek Award (2019)<i class="fas fa-newspaper" aria-hidden="true"></i> [Sciencedaily](https://www.sciencedaily.com/releases/2018/06/180606132740.htm)
 
-- [Energy-efficient rail guided vehicle routing for two-sided loading/unloading automated freight handling system](https://www.sciencedirect.com/science/article/pii/S0377221716307159) with  W.Hu,J.Mao and K.Wei. **European Journal of Operational Research** 
+- [Energy-efficient rail guided vehicle routing for two-sided loading/unloading automated freight handling system](https://www.sciencedirect.com/science/article/pii/S0377221716307159) with  W.Hu, J.Mao and K.Wei. **European Journal of Operational Research** 
 {: .small}
 
 ## Working Papers
-{: .small}
+- [Bike Lane Network Expansion: Traffic, Emissions, and Equity Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with X. Niu, S. Liu, J. Zhang ** **
 
 ## Completed Work
 {: .small}
