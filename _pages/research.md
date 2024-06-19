@@ -29,7 +29,8 @@ My research lies at the intersection of optimization, data analytics, and transp
 {: .small}
 
 ## Working Papers
-- [Bike Lane Network Expansion: Traffic, Emissions, and Equity Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with X. Niu, S. Liu, J. Zhang ** **{: .small}
+- [Bike Lane Network Expansion: Traffic, Emissions, and Equity Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with X. Niu, S. Liu, J. Zhang ** **
+{: .small}
 
 ## Completed Work
 {: .small}
