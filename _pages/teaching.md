@@ -25,6 +25,6 @@ Venue: B101 (Jiading)
 ## Grading
 - Discussion Attendance: 5%
 - Homework/Quiz: 35% (lowest one score dropped)
-- Project:15%
+- Project:25%
 - Final: 35%
 {: .small}
