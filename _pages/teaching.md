@@ -2,6 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
+author_profile: true
 description: 
 years_lecturer: [2024/25,2023/24,2022/23,2020/21,2019/20]
 years_tutor: [2017/18,2016/17,2015/16,2014/15,2012/13]
