@@ -152,6 +152,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jekyll-biblio
+  - jekyll-bibtex
   - jemoji
 
 # Sitemap settings
