@@ -151,6 +151,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-link-attributes
   - jekyll-twitter-plugin
+  - jekyll-biblio
   - jemoji
 
 # Sitemap settings
