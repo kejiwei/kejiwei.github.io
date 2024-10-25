@@ -21,6 +21,7 @@ title_separator: "|" # Separator for subpages
 subtitle: "Personal academic website" #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
   Personal academic website of Keji Wei, professor at School of Economics and Management </a>, Tongji University University.
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 url: "https://github.com/kejiwei"
 repository: "https://github.com/kejiwei"
 logo: "/assets/images/SEM_Tongji.jpg"
