@@ -33,10 +33,10 @@ All the courses I taught as
 
 <a id="lecturer"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Lecturer</b></h3></a>
 
-
-
-
-
+{%- for y in page.years_lecturer %}    
+    <h2 class="year">{{ y }}</h2>
+        {% bibliography -f teaching_lecturer -q @*[yearacademic={{y}}]* %}
+{% endfor %}
 
 
 
@@ -44,8 +44,10 @@ All the courses I taught as
 
 <a id="tutor"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Teaching Assistant</b></h3></a>
 
-
-
+{%- for y in page.years_tutor %}    
+    <h2 class="year">{{ y }}</h2>
+        {% bibliography -f teaching_tutor -q @*[yearacademic={{y}}]* %}
+{% endfor %}
 
 
 </div>
