@@ -184,10 +184,6 @@ display_tags: ['code', 'maths', 'teaching'] # this tags will be dispalyed on the
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: [Fanzon]
-  first_name: [Silvio, S.]
-
   style: apa
   locale: en
 
