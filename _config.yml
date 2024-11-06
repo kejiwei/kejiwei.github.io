@@ -190,7 +190,7 @@ scholar:
   sort_by: year, month
   order: descending
 
-  source: /_bibliography/
+  source: https://github.com/kejiwei/kejiwei.github.io/tree/master/_bibliography/
   bibliography: publications_theses.bib, publications_preprint.bib, publications_miscellaneous.bib, publications_journal.bib
   bibliography_template: bib
  # Note: if you have latex math in your bibtex, the latex filter
