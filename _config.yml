@@ -147,7 +147,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll/scholar
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-link-attributes
   - jekyll-twitter-plugin
@@ -190,7 +190,7 @@ scholar:
   sort_by: year, month
   order: descending
 
-  source: https://github.com/kejiwei/kejiwei.github.io/tree/master/_bibliography/
+  source: /_bibliography/
   bibliography: publications_theses.bib, publications_preprint.bib, publications_miscellaneous.bib, publications_journal.bib
   bibliography_template: bib
  # Note: if you have latex math in your bibtex, the latex filter
