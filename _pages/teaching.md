@@ -2,7 +2,7 @@
 
 layout: page
 permalink: /teaching/
-title: "Lecture and notes"
+title: "Teaching"
 author_profile: true
 classes: wide
 description: 
@@ -24,6 +24,40 @@ All the courses I taught as
     <li><a href="#tutor"><b>Teaching Assistant</b></a></li>
 </ul>
 </p>
+
+
+
+
+<div class="publications">
+
+
+<a id="lecturer"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Lecturer</b></h3></a>
+
+
+
+
+
+
+
+
+
+
+<a id="tutor"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Teaching Assistant</b></h3></a>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
 
 
 
