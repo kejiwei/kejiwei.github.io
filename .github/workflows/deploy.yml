@@ -1,9 +1,9 @@
-name: deploy
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 permissions:
@@ -11,28 +11,28 @@ permissions:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest  # 使用 GitHub 提供的 Ubuntu 环境
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3  # 检出代码
+      uses: actions/checkout@v3
 
     - name: Set up Ruby
-      uses: ruby/setup-ruby@v1  # 设置 Ruby 环境
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.1'  # 使用 Ruby 版本 3.2.1 或其他版本
-        bundler-cache: true  # 缓存 Bundler 依赖
+        ruby-version: '3.2.1'  # 你可以根据需要更改 Ruby 版本
+        bundler-cache: true
 
     - name: Install dependencies
       run: |
-        gem install jekyll scholar  # 安装 Jekyll 和 Jekyll Scholar 插件
-        bundle install  # 安装所有 Gemfile 中的依赖
+        gem install jekyll scholar  # 安装 jekyll-scholar 插件
+        bundle install  # 安装所有在 Gemfile 中定义的依赖
 
     - name: Build the site
       run: |
-        bundle exec jekyll build  # 使用 Jekyll 构建网站
+        bundle exec jekyll build  # 构建站点
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        folder: _site  # 将构建结果推送到 GitHub Pages
+        folder: _site  # 构建的输出文件夹
