@@ -69,9 +69,6 @@ blog_nav_title: # your blog must have a title for it to be displayed in the nav 
 blog_description: 
 permalink: /blog/:year/:title/
 
-# Pagination
-pagination:
-  enabled: true
 
 related_blog_posts:
   enabled: false
