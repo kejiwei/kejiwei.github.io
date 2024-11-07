@@ -26,7 +26,7 @@ jobs:
     - name: Install dependencies
       run: |
         gem install jekyll-scholar  # 安装 jekyll-scholar 插件
-        bundle install# 安装所有在 Gemfile 中定义的依赖
+        bundle install  # 安装所有在 Gemfile 中定义的依赖
         bundle update  
    
     - name: Build the site
