@@ -141,6 +141,7 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
+  - jekyll-scholar
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
