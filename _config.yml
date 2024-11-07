@@ -70,7 +70,7 @@ blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
-pagination_v2:
+pagination:
   enabled: true
 
 related_blog_posts:
@@ -141,14 +141,16 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
-  - jekyll-scholar
+  - jekyll-diagrams
+  - jekyll-email-protect
   - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-imagemagick
+  - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll-titles-from-headings
-  - jekyll-gist
-  - jekyll-commonmark-ghpages
-  - jekyll-seo-tag
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-link-attributes
+  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
