@@ -4,33 +4,35 @@ on:
   push:
     branches:
       - master
-      - main
-  pull_request:
-    branches:
-      - master
-      - main
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # 需要写权限才能推送到 GitHub Pages
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # 使用 GitHub 提供的 Ubuntu 环境
+
     steps:
-    - name: Checkout 🛎️
-      uses: actions/checkout@v3
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
+    - name: Checkout repository
+      uses: actions/checkout@v3  # 检出代码
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1  # 设置 Ruby 环境
       with:
-        ruby-version: '3.2.1'
-        bundler-cache: true
-    - name: Install and Build 🔧
+        ruby-version: '3.2.1'  # 使用 Ruby 版本 3.2.1 或其他版本
+        bundler-cache: true  # 缓存 Bundler 依赖
+
+    - name: Install dependencies
       run: |
-        npm install -g mermaid.cli
-        bundle exec jekyll build
-    - name: Deploy 🚀
-      if: github.event_name != 'pull_request'
+        gem install jekyll scholar  # 安装 Jekyll 和 Jekyll Scholar 插件
+        bundle install  # 安装所有 Gemfile 中的依赖
+
+    - name: Build the site
+      run: |
+        bundle exec jekyll build  # 使用 Jekyll 构建网站
+
+    - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        folder: _site
+        folder: _site  # 将构建结果推送到 GitHub Pages
