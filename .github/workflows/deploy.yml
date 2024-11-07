@@ -28,7 +28,12 @@ jobs:
         gem install jekyll-scholar  # 安装 jekyll-scholar 插件
         bundle install  # 安装所有在 Gemfile 中定义的依赖
         bundle update  
-   
+
+    - name: Fix deprecated File.exists? in jekyll-scholar
+      run: |
+        # 替换 jekyll-scholar 插件中的所有 File.exists? 为 File.exist?
+        sed -i 's/File.exists?/File.exist?/g' vendor/bundle/ruby/3.2.0/gems/jekyll-scholar-5.16.0/lib/jekyll/scholar/utilities.rb
+
     - name: Build the site
       run: |
         bundle exec jekyll build  # 构建站点
