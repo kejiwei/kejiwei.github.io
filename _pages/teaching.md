@@ -1,38 +1,18 @@
 ---
-layout: page
+title: "Lecture and notes"
 permalink: /teaching/
-title: Teaching
 author_profile: true
 classes: wide
-description: 
-years_lecturer: [2024/25,2023/24,2022/23,2020/21,2019/20]
-years_tutor: [2017/18,2016/17,2015/16,2014/15,2012/13]
-nav: true
-nav_order: 7
 ---
-
-<p> 
-All the courses I taught as 
-</p>
-
-<p>
-<ul>
-    <li><a href="#lecturer"><b>Lecturer</b></a></li>
-    <li><a href="#tutor"><b>Teaching Assistant</b></a></li>
-</ul>
-</p>
-
-<div class="publications">
-
-<a id="lecturer"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Lecturer</b></h3></a>
-{%- for y in page.years_lecturer %}    
-    <h2 class="year">{{ y }}</h2>
-    {% bibliography -f teaching_lecturer -q @*[yearacademic={{y}}]* %}
-{% endfor %}
-
-<a id="tutor"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Teaching Assistant</b></h3></a>
-{%- for y in page.years_tutor %}    
-    <h2 class="year">{{ y }}</h2>
-    {% bibliography -f teaching_tutor -q @*[yearacademic={{y}}]* %}
-{% endfor %}
-</div>
+I am teaching Discrete Math at 2024 Spring.
+## Course Description and Goals:
+Discrete Mathematics is what one needs to talk about most problems in computer science which involves discrete objects such as bits, integers, files in a directory, nodes in a network, etc. At the end of this course, students will be comfortable understanding and using this language. The other main objective is to read, write, and understand rigorous mathematical proofs of propositions involving these discrete objects.
+## Background Assumed:
+Students should have basic knowledge about programming (CS1) and should have some familiarity with basic math.
+## Class Information:
+Class Times: T: 8:00am - 9:35am, F:10:00 - 11:35   Office Hours: (F: 3:00pm - 4:00pm)
+Venue: B101 (Jiading)
+## Tentative Weekly Schedule
+{: .small}
+## Policies
+{: .small}
