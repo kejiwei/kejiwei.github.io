@@ -35,10 +35,31 @@ main {
     text-decoration: none;
     padding: 0.5rem 1rem;
     margin: 0 0.5rem;
+    transition: all 0.3s ease;
 }
 
 .nav-main a.active {
     border-bottom: 2px solid white;
+}
+
+.nav-main a:hover {
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 4px;
+}
+
+/* 标题样式 */
+h1 {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 3px solid var(--secondary-color);
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: var(--primary-color);
+    margin: 2rem 0 1.5rem;
 }
 
 /* 课程列表样式 */
@@ -54,6 +75,50 @@ main {
     padding: 1.5rem;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    position: relative;
+    overflow: hidden;
+}
+
+.course-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background-color: var(--secondary-color);
+}
+
+.course-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.course-item h3 {
+    font-size: 1.4rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.course-item p {
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.course-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.course-link:hover {
+    background-color: var(--secondary-color);
 }
 
 /* 课程页面样式 */
@@ -98,11 +163,6 @@ main {
 
 .assessment-table tr:hover {
     background-color: #f5f5f5;
-}
-
-.assessment-table td {
-    border-right: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
 }
 
 .assessment-table thead th {
