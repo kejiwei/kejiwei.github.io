@@ -10,9 +10,12 @@ My research lies at the intersection of optimization, data analytics, and transp
 
 ## Under Review
 - [Graph Attention Networks for Efficient Construction of Arc-Based Transportation Network Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4685714) with V. Vaze **Major Revision by Transportation Science**
+- [Bike Lane Network Expansion: Traffic, Emissions, and Equity Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with X. Niu, S. Liu, J. Zhang **Under Review by Nature Communication** 
+{: .small}
+
 
 ## Selected Published Work
-- [A Machine Learning Approach for Solution Space Reduction in Aircraft Disruption Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with N. Rashedi, N. Sankey,V. Vaze **European Journal of Operational Research （2024）**
+- [A Machine Learning Approach for Solution Space Reduction in Aircraft Disruption Recovery](https://www.sciencedirect.com/science/article/pii/S0377221724008944?via%3Dihub) with N. Rashedi, N. Sankey,V. Vaze **European Journal of Operational Research （2025）**
 {: .small}
 - [Transit planning optimization under ride-hailing competition and traffic congestion](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1068) with  V. Vaze, and A. Jacquillat. **Transportation Science (2021)** 
 - [Schedule Planning and Endogeneity of Travelers' Decisions in Congested Large-Scale Transportation Networks](/assets/papers/Keji_PhD_Dissertation.pdf) **Dartmouth PhD Thesis (2019)**
@@ -29,10 +32,12 @@ My research lies at the intersection of optimization, data analytics, and transp
 {: .small}
 
 ## Working Papers
-- [Bike Lane Network Expansion: Traffic, Emissions, and Equity Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with X. Niu, S. Liu, J. Zhang ** **
+- [Airline Fleet Assignment and Timetabling with Context-dependent Choice model]() with X. Niu,
+Y.Cao** **
+- [Optimizing meal delivery Services Reinforcement
+Learning for Enhanced Efficiency and Equity]() with Y. Fan,
+Y.Cao, X.Xiong** **
 {: .small}
 
-## Completed Work
-{: .small}
 
 
