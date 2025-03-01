@@ -15,6 +15,8 @@ I have the pleasure to collaborate with fantastic academics and students!
 ### Students
 - **Binbin Chen** (Tongji University, June 2023-, co-advised with Zhe Liang)
 - **Xiaoyun Niu** (Tongji University, Oct 2023-)
+- **Shizhe Wang** (Tongji University, Sept 2024-)
+- **Yiheng Kang** (Tongji University, Sept 2024-)
 
 ### Faculty
 - **[Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu/publications)** (UToronto)

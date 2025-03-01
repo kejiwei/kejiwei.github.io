@@ -3,6 +3,7 @@ title: "Research Impact & Media Coverage"
 permalink: /press/
 author_profile: true
 ---
+- [Dartmouth Engineering Study Shows Machine Learning Can Help Airlines Recover Faster After Disruptions](https://engineering.dartmouth.edu/news/study-shows-machine-learning-can-help-airlines-recover-faster-after-disruptions) on how to apply machine learning tools can save precious time—and therefore money—in the decision-making process for aircraft scheduling recovery. **Dartmouth College, Dec 2024**.
 - [Flying In The Face of Danger
 Keji Wei Th'19 is re-designing the technology of Airline travel](https://engineering.dartmouth.edu/news/flying-in-the-face-of-danger) on my personal avation journey in acedmeia and industry. **Dartmouth Engineering Magazine, Summer 2021**.
 - [Featured Article](https://higherlogicdownload.s3.amazonaws.com/INFORMS/90fefc85-329e-44f0-8a07-2cd43ce25815/UploadedImages/AAS_Newsletter_2021.pdf) During a personal interview, I shared my understanding of aviation recovery systems and  insights into life at Sabre, a leading technology provider for the travel industry. **AAS Newsletter, MAY 2021**.
