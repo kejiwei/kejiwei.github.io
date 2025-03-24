@@ -10,7 +10,7 @@ My research lies at the intersection of optimization, data analytics, and transp
 
 ## Under Review
 - [Graph Attention Networks for Efficient Construction of Arc-Based Transportation Network Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4685714) with V. Vaze **Major Revision by Transportation Science**
-- [The Role of Cycling Infrastructure  in Reshaping Urban Transport Emissions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with X. Niu, S. Liu, J. Zhang **Under Review by Nature Communication** 
+- [The Role of Cycling Infrastructure  in Reshaping Urban Transport Emissions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444548) with X. Niu, S. Liu, J. Zhang **----------------** 
 {: .small}
 
 
