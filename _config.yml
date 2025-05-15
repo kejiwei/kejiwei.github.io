@@ -47,7 +47,7 @@ atom_feed:
 author:
   name   : *name
   avatar : "/assets/images/Keji.png"
-  bio    : "Assistant Professor of Operations at SEM, specialized in data analytics, optimization and transportation"
+  bio    : "Tennued Associate Professor of Operations at SEM, specialized in data analytics, optimization and transportation"
   location : "Shanghai, China"
   email : "kejiwei@tongji.edu.cn"
   linkedin : "kejiwei"

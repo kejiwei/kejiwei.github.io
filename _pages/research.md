@@ -35,9 +35,6 @@ My research lies at the intersection of optimization, data analytics, and transp
 ## Working Papers
 - [Airline Fleet Assignment and Timetabling with Context-dependent Choice model]() with X. Niu,
 Y.Cao** **
-- [Optimizing meal delivery Services Reinforcement
-Learning for Enhanced Efficiency and Equity]() with Y. Fan,
-Y.Cao, X.Xiong** **
 {: .small}
 
 
